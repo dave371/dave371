@@ -10,7 +10,7 @@ Currently Learning:
 - Angular
 - Cloud Services (GCP / Azure)
 
-If you are looking to reach me, we can chat using [LinkedIn](linkedin.com/in/david-pacheco-50b2641bb).
+If you are looking to reach me, we can chat using [LinkedIn](https://www.linkedin.com/in/david-pacheco-50b2641bb/).
 
 <!---
 dave371/dave371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
